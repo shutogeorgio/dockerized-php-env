@@ -10,5 +10,5 @@
 	
 -  `cd` command to the directory which this module is installed 
 - up the container by `$ docker-compose up -d`
-- Now you can access to your localhost:
+- Now you can access to your `localhost:8080`:
 - For stoppting the container `$ docker-compose stop`
